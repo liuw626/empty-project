@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://rm-bp15jkou3e157jte97o.mysql.rds.aliyuncs.com
+    username: godric
+    password: Liuj12921109147!
+
+
